@@ -1,4 +1,3 @@
 Nombre: Nelson Espitia Bolivar
+Cedula: 11227905
 Edad: 40
-Estadio Civil: Casado
-Ciudad natal: Girardot
