@@ -1,1 +1,4 @@
-Nombre: Nelson Espitia
+Nombre: Nelson Espitia Bolivar
+Edad: 40
+Estadio Civil: Casado
+Ciudad natal: Girardot
